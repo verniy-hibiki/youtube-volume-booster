@@ -20,7 +20,3 @@ Once installed, the script will add a volume boost button to the YouTube video c
 - **Bright**: Volume boost is on.
 
 Click the button to toggle the volume boost.
-
-## License
-
-This project is licensed under the GNU General Public License v3.0.
